@@ -1,2 +1,0 @@
-# DocumentSearch
-An DocumentSearch Tool
